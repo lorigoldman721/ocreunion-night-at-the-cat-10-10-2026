@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nightatthecat.org/sitemap.xml
