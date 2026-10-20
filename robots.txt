@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lorigoldman721.github.io/ocreunion-night-at-the-cat-10-10-2026/sitemap.xml
